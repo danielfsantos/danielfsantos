@@ -18,6 +18,13 @@ Aqui você encontrará os meus projetos e estudos atuais.
 
 
 
+<div>
+<a href="https://github.com/danielfsantos">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfsantos&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 <!--
 **danielfsantos/danielfsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
