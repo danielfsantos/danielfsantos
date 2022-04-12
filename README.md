@@ -1,6 +1,6 @@
 ### Bem vindo ao meu GitHub 👋
 
-tenho 13 anos de experiencia em Qualidade de software e desenvolvimento de testes automatizados
+tenho 7 anos de experiencia em Qualidade de software e desenvolvimento de testes automatizados
 Atualmente estou em processo para migrar a minha carreira para desenvolvimento BackEnd
 Aqui você encontrará os meus projetos e estudos atuais.
 
